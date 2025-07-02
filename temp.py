@@ -11,7 +11,6 @@ from textblob import TextBlob
 
 nltk.download('stopwords')
 nltk.download('wordnet')
-nltk.download('omw-1.4')
 
 
 # Define the cleaning function exactly as before
